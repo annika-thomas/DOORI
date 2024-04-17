@@ -30,8 +30,12 @@ pip install git+https://github.com/openai/CLIP.git
 
 Install Segment Anything:
 
+```shell
 pip install git+https://github.com/facebookresearch/segment-anything.git
+```
 
 Install more packages:
 
+```shell
 pip install opencv-python pycocotools matplotlib onnxruntime onnx
+```
