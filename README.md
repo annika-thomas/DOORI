@@ -2,7 +2,7 @@
 
 ## Installation
 
-Clone the repository locally:
+Clone the FastSAM repository locally:
 
 ```shell
 git clone https://github.com/CASIA-IVA-Lab/FastSAM.git
@@ -27,3 +27,11 @@ Install CLIP:
 ```shell
 pip install git+https://github.com/openai/CLIP.git
 ```
+
+Install Segment Anything:
+
+pip install git+https://github.com/facebookresearch/segment-anything.git
+
+Install more packages:
+
+pip install opencv-python pycocotools matplotlib onnxruntime onnx
