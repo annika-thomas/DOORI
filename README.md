@@ -1,6 +1,6 @@
 # DORI
 
-Run the DORI algorithm:
+Script for the DORI algorithm (make sure to adjust the image data directory before running it):
 
 ```shell
 python DORI_v2.py
@@ -58,4 +58,10 @@ To see SAM run on some example images, make sure to adjust the folder location f
 
 ```shell
 python3 run_SAM_toy.py
+```
+
+To see CLIP run on some example images, run the notebook:
+
+```
+CLIP_example.ipynb
 ```
