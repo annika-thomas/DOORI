@@ -1,5 +1,11 @@
 # DORI
 
+Run the DORI algorithm:
+
+```shell
+python DORI_v2.py
+```
+
 ## Installation
 
 Clone the FastSAM repository locally:
