@@ -46,6 +46,12 @@ Install more packages:
 pip install opencv-python pycocotools matplotlib onnxruntime onnx
 ```
 
+Install CLIP
+```
+pip install ftfy regex tqdm
+pip install git+https://github.com/openai/CLIP.git
+```
+
 ## Toy Examples
 
 To see FastSAM run on some example images, make sure to adjust the folder location for the inputFolder and outputFolder on line 22 and 23 of run_FastSAM_toy.py, then run:
