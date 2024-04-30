@@ -31,6 +31,7 @@ pip install -r requirements.txt
 Install CLIP:
 
 ```shell
+pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 ```
 
@@ -46,11 +47,7 @@ Install more packages:
 pip install opencv-python pycocotools matplotlib onnxruntime onnx
 ```
 
-Install CLIP
-```
-pip install ftfy regex tqdm
-pip install git+https://github.com/openai/CLIP.git
-```
+
 
 ## Toy Examples
 
